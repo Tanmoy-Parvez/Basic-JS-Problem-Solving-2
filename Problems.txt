@@ -1,0 +1,9 @@
+1. Create an array of even numbers and an array of odd numbers from the numbers 1 to 100 using for or while loop.
+
+2. Find the sum of the numbers from 1 to 10 using a loop.
+
+3. Write an array with the prices of all the books you have. You have to skip the books that cost 200 taka or more. And have to return the cost of the rest of the books.
+
+4. Write a function that takes the price of two books you have and returns the total price of the books.
+
+5. Write a function that takes a number and returns its square.
